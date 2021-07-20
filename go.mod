@@ -1,3 +1,3 @@
-module github.com/prometheus/common
+module github.com/tobiasdai/prometheus_common
 
 go 1.12
